@@ -43,6 +43,7 @@ cards_sources = [
   'swiss-xvii.svg',
   'tango.svg',
   'tango_nuevo.svg',
+  'tigullio.svg',
   'Атласные.svg',
 ]
 
