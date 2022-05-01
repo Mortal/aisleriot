@@ -38,6 +38,7 @@ cards_sources = [
   'ornamental.svg',
   'paris.svg',
   'rheinland.svg',
+  'simplistic.svg',
   'swiss-xvii.svg',
   'tango.svg',
   'tango_nuevo.svg',
