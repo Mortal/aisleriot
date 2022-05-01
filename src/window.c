@@ -382,7 +382,7 @@ aisleriot_window_show_about_dialog (AisleriotWindow * window)
     "Mario Frasca <mariotomo@gmail.com>",
     /* FIXMEchpe: who did the Bonded cards? */
     "\"Thom-10\"", /* Tango Nuevo */
-    "Vincent Bermel", /* Tango Nuevo */
+    "Vincent Bermel", /* Tango Nuevo, Rheinland */
     NULL
   };
   const char *documenters[] = {

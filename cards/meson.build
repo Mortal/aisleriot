@@ -36,6 +36,7 @@ cards_sources = [
   'guyenne-classic.svg',
   'ornamental.svg',
   'paris.svg',
+  'rheinland.svg',
   'swiss-xvii.svg',
   'tango.svg',
   'tango_nuevo.svg',
