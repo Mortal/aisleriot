@@ -37,6 +37,7 @@ cards_sources = [
   'gnomangelo.svg',
   'gnomangelo_bitmap.svg',
   'guyenne-classic.svg',
+  'lattmann.svg',
   'neoclassical.svg',
   'neoclassical_4_color.svg',
   'ornamental.svg',
