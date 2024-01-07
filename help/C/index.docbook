@@ -207,6 +207,7 @@ been coded for your pleasure in the GNOME scripting language (Scheme).
   <title>The Games</title>
 
   <xi:include href="accordion.xml" />
+  <xi:include href="algebra.xml" />
   <xi:include href="agnes.xml" />
   <xi:include href="athena.xml" />
   <xi:include href="auld_lang_syne.xml" />

@@ -1,0 +1,24 @@
+Type of Deck
+Standard Deck
+
+Stock
+Top left pile. The rest of the deck is placed here after dealing the initial cards onto the Foundations. Cards are turned over one at a time to Waste if Waste is currently empty.
+
+Waste
+To be taken from Stock. At most one card.
+
+Foundations
+Four piles top right. The starting card in each pile determines the order in which the pile has to be built up. The order follows a multiplication table with wraparound, e.g. starting card Ace is the ones table from Ace to King, starting card Two is the twos table: 2, 4, 6, 8, 10, Q, A, 3, 5, 7, 9, J, K, starting card Three is the threes table: 3, 6, 9, Q, 2, 5, 8, J, A, 4, 7, 10, K, and so on.
+
+Tableau
+Four piles, initially empty. Top card in each pile is available for play.
+
+Goal
+Move all cards to the Foundation piles.
+
+Rules
+After turning a card from the Stock to the Waste, it must be played to either a Tableau pile or a Foundation pile. As long as no card is on the Waste, cards may be played from the Tableau piles to the Foundation piles. Cards may NOT be moved between Tableau piles, and cards may NOT be moved from the Tableau to the Foundation if there is a card on the Waste.
+
+Scoring
+Each card in the Foundation piles scores one point.
+Maximum possible score: 52

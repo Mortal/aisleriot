@@ -15,6 +15,7 @@
 
 games_sources = [
   'accordion.scm',
+  'algebra.scm',
   'agnes.scm',
   'athena.scm',
   'auld-lang-syne.scm',
